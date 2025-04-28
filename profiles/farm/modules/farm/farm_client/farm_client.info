@@ -1,0 +1,12 @@
+name = Farm Client
+description = Integrates the farmOS server and client.
+core = 7.x
+package = farmOS
+dependencies[] = farm_access
+dependencies[] = farm_api
+
+; Information added by Drupal.org packaging script on 2021-02-04
+version = "7.x-1.7"
+core = "7.x"
+project = "farm"
+datestamp = "1612445788"

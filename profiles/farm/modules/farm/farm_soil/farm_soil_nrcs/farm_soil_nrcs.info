@@ -1,0 +1,13 @@
+name = Farm Soil NRCS
+description = Provides integration with NRCS Soil Survey data.
+core = 7.x
+package = farmOS
+dependencies[] = farm_map
+dependencies[] = farm_quantity_log
+dependencies[] = farm_soil
+
+; Information added by Drupal.org packaging script on 2021-02-04
+version = "7.x-1.7"
+core = "7.x"
+project = "farm"
+datestamp = "1612445788"

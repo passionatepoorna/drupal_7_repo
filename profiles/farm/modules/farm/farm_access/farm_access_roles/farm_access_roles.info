@@ -1,0 +1,11 @@
+name = Farm Access Roles
+description = Provides default roles: Manager, Worker, Viewer.
+core = 7.x
+package = farmOS
+dependencies[] = farm_access
+
+; Information added by Drupal.org packaging script on 2021-02-04
+version = "7.x-1.7"
+core = "7.x"
+project = "farm"
+datestamp = "1612445788"
